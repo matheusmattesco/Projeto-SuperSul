@@ -1,0 +1,53 @@
+
+
+Data e Hora: 15/09/2024, 21:06:46
+Nome: Nome do Cliente
+E-mail: email@exemplo.com
+Endereço: Endereço do Cliente
+Sabor: Sonho de Valsa
+Tamanho: M
+
+Data e Hora: 15/09/2024, 21:08:37
+Nome: Matheus
+E-mail: matheus.mattesco@edu.unifil.br
+Endereço: o
+Sabor: Sonho de Valsa
+Tamanho: M
+
+Data e Hora: 15/09/2024, 21:10:45
+Nome: Matheus
+E-mail: Teste@teste
+Endereço: dsaudhsauhdsa
+Sabor: Prestígio
+Tamanho: G
+
+Data e Hora: 15/09/2024, 21:13:26
+Nome: aaaa
+E-mail: aa@a
+Endereço: a
+Sabor: Prestígio
+Tamanho: G
+
+Data e Hora: 15/09/2024, 21:14:16
+Nome: testepedido
+E-mail: numer@numero
+Endereço: dsqadsa
+Sabor: Prestígio
+Tamanho: G
+
+Número do Pedido: 1
+Data e Hora: 15/09/2024, 21:14:53
+Nome: dsadsa
+E-mail: 213213@1321
+Endereço: dsad
+Sabor: Prestígio
+Tamanho: G
+
+Número do Pedido: 2
+Data e Hora: 15/09/2024, 21:15:04
+Nome: dsad
+E-mail: dsad@e231
+Endereço: wqewq
+Sabor: Prestígio
+Tamanho: G
+
