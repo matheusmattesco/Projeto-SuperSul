@@ -2,9 +2,9 @@
   "name": "projeto-diego---super-sul",
   "version": "1.0.0",
   "description": "",
-  "main": "src/node.js",
+  "main": "node.js",
   "scripts": {
-    "start": "node src/node.js"
+    "start": "node node.js"
   },
   "keywords": [],
   "author": "",
